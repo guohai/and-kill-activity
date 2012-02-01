@@ -1,0 +1,11 @@
+Android上的Activity到底要不要完全退出
+Activity设计的哲学是什么？
+
+代码CP FROM
+http://www.iteye.com/topic/1112269
+但是这种方式是否有效，值得考虑
+
+
+http://stackoverflow.com/questions/3241322/android-howto-kill-my-own-activity-the-hard-way
+http://stackoverflow.com/questions/2033914/quitting-an-application-is-that-frowned-upon
+
