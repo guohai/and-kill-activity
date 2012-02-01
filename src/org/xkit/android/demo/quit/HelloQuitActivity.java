@@ -39,7 +39,6 @@ public class HelloQuitActivity extends Activity {
 	@Override
 	public void onResume() {
 		super.onResume();
-
 		// 在当前的activity中注册广播
 		IntentFilter filter = new IntentFilter();
 		filter.addAction(ACTION_XKIT_QUIT);
